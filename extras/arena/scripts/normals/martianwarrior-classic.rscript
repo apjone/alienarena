@@ -1,0 +1,153 @@
+players/martianwarrior-classic/red
+{
+	{
+		map players/martianwarrior-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianwarrior-classic-defaultfx.tga
+		glow
+	}
+}
+players/martianwarrior-classic/default
+{
+	{
+		map players/martianwarrior-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianwarrior-classic-defaultfx.tga
+		glow
+	}
+}
+players/martianwarrior-classic/blue
+{
+	{
+		map players/martianwarrior-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianwarrior-classic-bluefx.tga
+		glow
+	}	
+}
+players/martianwarrior-classic/tron
+{
+	{
+		map players/martianwarrior-classic/tron_normal.tga
+		normalmap
+		map2 gfx/martianwarrior-classic-tronfx.tga
+		glow
+	}	
+}
+players/martianwarrior-classic/tron2
+{
+	{
+		map players/martianwarrior-classic/tron_normal.tga
+		normalmap
+		map2 gfx/martianwarrior-classic-tron2fx.tga
+		glow
+	}	
+}
+players/martianwarrior-classic/tron3
+{
+	{
+		map players/martianwarrior-classic/tron_normal.tga
+		normalmap
+		map2 gfx/martianwarrior-classic-tron3fx.tga
+		glow
+	}	
+}
+players/martianwarrior-classic/aqua
+{
+	{
+		map players/martianwarrior-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianwarrior-classic-aquafx.tga
+		glow
+	}	
+}
+players/martianwarrior-classic/black
+{
+	{
+		map players/martianwarrior-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianwarrior-classic-blackfx.tga
+		glow
+	}
+}
+players/martianwarrior-classic/blacknblue
+{
+	{
+		map players/martianwarrior-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianwarrior-classic-blue2fx.tga
+		glow
+	}
+}
+players/martianwarrior-classic/blackngreen
+{
+	{
+		map players/martianwarrior-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianwarrior-classic-greenfx.tga
+		glow
+	}
+}
+players/martianwarrior-classic/blacknorange
+{
+	{
+		map players/martianwarrior-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianwarrior-classic-orangefx.tga
+		glow
+	}
+}
+players/martianwarrior-classic/blacknyellow
+{
+	{
+		map players/martianwarrior-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianwarrior-classic-yellowfx.tga
+		glow
+	}
+}
+players/martianwarrior-classic/cold
+{
+	{
+		map players/martianwarrior-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianwarrior-classic-coldfx.tga
+		glow
+	}	
+}
+players/martianwarrior-classic/fire
+{
+	{
+		map players/martianwarrior-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianwarrior-classic-firefx.tga
+		glow
+	}	
+}
+players/martianwarrior-classic/ice
+{
+	{
+		map players/martianwarrior-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianwarrior-classic-icefx.tga
+		glow
+	}	
+}
+players/martianwarrior-classic/midnight
+{
+	{
+		map players/martianwarrior-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianwarrior-classic-midnightfx.tga
+		glow
+	}	
+}
+players/martianwarrior-classic/neon
+{
+	{
+		map players/martianwarrior-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianwarrior-classic-neonfx.tga
+		glow
+	}	
+}

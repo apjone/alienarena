@@ -1,0 +1,197 @@
+players/martiancyborg-classic/blue
+{
+	{
+		map players/martiancyborg-classic/default_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-bluefx.tga
+		glow
+	}	
+}
+players/martiancyborg-classic/red
+{
+	{
+		map players/martiancyborg-classic/default_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-defaultfx.tga
+		glow
+	}	
+}
+players/martiancyborg-classic/default
+{
+	{
+		map players/martiancyborg-classic/default_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-defaultfx.tga
+		glow
+	}	
+}
+players/martiancyborg-classic/tron
+{
+	{
+		map players/martiancyborg-classic/tron_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-tronfx.tga
+		glow
+	}	
+}
+players/martiancyborg-classic/tron2
+{
+	{
+		map players/martiancyborg-classic/tron_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-tron2fx.tga
+		glow
+	}	
+}
+players/martiancyborg-classic/tron3
+{
+	{
+		map players/martiancyborg-classic/tron_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-tron3fx.tga
+		glow
+	}	
+}
+players/martiancyborg-classic/corroded
+{
+	{
+		map players/martiancyborg-classic/corroded_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-corrodedfx.tga
+		glow
+        }
+}
+players/martiancyborg-classic/ruff
+{
+	{
+		map players/martiancyborg-classic/ruff_normal.tga
+		normalmap
+	}	
+}
+players/martiancyborg-classic/ruff2
+{
+	{
+		map players/martiancyborg-classic/ruff2_normal.tga
+		normalmap
+	}	
+}
+players/martiancyborg-classic/beaten
+{
+	{
+		map players/martiancyborg-classic/beaten_normal.tga
+		normalmap
+	}	
+}
+players/martiancyborg-classic/steel
+{
+	{
+		map players/martiancyborg-classic/steel_normal.tga
+		normalmap
+	}
+}
+players/martiancyborg-classic/roughsteel
+{
+	{
+		map players/martiancyborg-classic/roughsteel_normal.tga
+		normalmap
+	}
+}
+players/martiancyborg-classic/aqua
+{
+	{
+		map players/martiancyborg-classic/default_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-aquafx.tga
+		glow
+	}	
+}
+players/martiancyborg-classic/black
+{
+	{
+		map players/martiancyborg-classic/default_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-blackfx.tga
+		glow
+	}
+}
+players/martiancyborg-classic/blacknblue
+{
+	{
+		map players/martiancyborg-classic/default_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-blue2fx.tga
+		glow
+	}
+}
+players/martiancyborg-classic/blackngreen
+{
+	{
+		map players/martiancyborg-classic/default_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-greenfx.tga
+		glow
+	}
+}
+players/martiancyborg-classic/blacknorange
+{
+	{
+		map players/martiancyborg-classic/default_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-orangefx.tga
+		glow
+	}
+}
+players/martiancyborg-classic/blacknyellow
+{
+	{
+		map players/martiancyborg-classic/default_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-yellowfx.tga
+		glow
+	}
+}
+players/martiancyborg-classic/cold
+{
+	{
+		map players/martiancyborg-classic/default_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-coldfx.tga
+		glow
+	}	
+}
+players/martiancyborg-classic/fire
+{
+	{
+		map players/martiancyborg-classic/default_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-firefx.tga
+		glow
+	}	
+}
+players/martiancyborg-classic/ice
+{
+	{
+		map players/martiancyborg-classic/default_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-icefx.tga
+		glow
+	}	
+}
+players/martiancyborg-classic/midnight
+{
+	{
+		map players/martiancyborg-classic/default_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-midnightfx.tga
+		glow
+	}	
+}
+players/martiancyborg-classic/neon
+{
+	{
+		map players/martiancyborg-classic/default_normal.tga
+		normalmap
+		map2 gfx/martiancyborg-classic-neonfx.tga
+		glow
+	}	
+}

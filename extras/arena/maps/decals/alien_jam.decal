@@ -1,0 +1,3 @@
+texture textures/xenos/alien_jam.tga;
+mins -128, -128, -128;
+maxs 128, 128, 0;

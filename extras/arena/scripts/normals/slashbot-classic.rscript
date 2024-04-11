@@ -1,0 +1,245 @@
+players/slashbot-classic/red
+{
+	{
+		map players/slashbot-classic/default_normal.jpg
+		normalmap
+		map2 gfx/slashbot-classic-defaultfx.tga
+		glow
+	}
+}
+players/slashbot-classic/default
+{
+	{
+		map players/slashbot-classic/default_normal.jpg
+		normalmap
+		map2 gfx/slashbot-classic-defaultfx.tga
+		glow
+	}
+}
+players/slashbot-classic/blue
+{
+	{
+		map players/slashbot-classic/default_normal.jpg
+		normalmap
+		map2 gfx/slashbot-classic-defaultfx.tga
+		glow
+	}	
+}
+players/slashbot-classic/tron
+{
+	{
+		map players/slashbot-classic/tron_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-tronfx.tga
+		glow
+	}	
+}
+players/slashbot-classic/tron2
+{
+	{
+		map players/slashbot-classic/tron_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-tron2fx.tga
+		glow
+	}	
+}
+players/slashbot-classic/tron3
+{
+	{
+		map players/slashbot-classic/tron_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-tron3fx.tga
+		glow
+	}	
+}
+players/slashbot-classic/ripper
+{
+	{
+		map players/slashbot-classic/ripper_normal.tga
+		normalmap
+	}	
+}
+players/slashbot-classic/ripper2
+{
+	{
+		map players/slashbot-classic/ripper_normal.tga
+		normalmap
+	}	
+}
+players/slashbot-classic/ripper3
+{
+	{
+		map players/slashbot-classic/ripper_normal.tga
+		normalmap
+	}	
+}
+players/slashbot-classic/ripper4
+{
+	{
+		map players/slashbot-classic/ripper_normal.tga
+		normalmap
+	}	
+}
+players/slashbot-classic/reaper
+{
+	{
+		map players/slashbot-classic/ripper_normal.tga
+		normalmap
+	}	
+}
+players/slashbot-classic/reptile
+{
+	{
+		map players/slashbot-classic/reptile_normal.tga
+		normalmap
+	}	
+}
+players/slashbot-classic/bloodreaper
+{
+	{
+		map players/slashbot-classic/ripper_normal.tga
+		normalmap
+	}	
+}
+players/slashbot-classic/icereaper
+{
+	{
+		map players/slashbot-classic/ripper_normal.tga
+		normalmap
+	}	
+}
+players/slashbot-classic/sentinel
+{
+	{
+		map players/slashbot-classic/sentinel_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-sentinelfx.tga
+		glow
+        }
+}
+players/slashbot-classic/viper
+{
+	{
+		map players/slashbot-classic/viper_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-viperfx.tga
+		glow
+        }
+}
+players/slashbot-classic/aqua
+{
+	{
+		map players/slashbot-classic/default_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-aquafx.tga
+		glow
+	}	
+}
+players/slashbot-classic/black
+{
+	{
+		map players/slashbot-classic/default_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-blackfx.tga
+		glow
+	}
+}
+players/slashbot-classic/blacknblue
+{
+	{
+		map players/slashbot-classic/default_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-bluefx.tga
+		glow
+	}
+}
+players/slashbot-classic/blackngreen
+{
+	{
+		map players/slashbot-classic/default_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-greenfx.tga
+		glow
+	}
+}
+players/slashbot-classic/blacknorange
+{
+	{
+		map players/slashbot-classic/default_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-orangefx.tga
+		glow
+	}
+}
+players/slashbot-classic/blacknyellow
+{
+	{
+		map players/slashbot-classic/default_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-yellowfx.tga
+		glow
+	}
+}
+players/slashbot-classic/cold
+{
+	{
+		map players/slashbot-classic/default_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-coldfx.tga
+		glow
+	}	
+}
+players/slashbot-classic/cyrax
+{
+	{
+		map players/slashbot-classic/default_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-defaultfx.tga
+		glow
+	}
+}
+players/slashbot-classic/sektor
+{
+	{
+		map players/slashbot-classic/default_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-defaultfx.tga
+		glow
+	}
+}
+players/slashbot-classic/fire
+{
+	{
+		map players/slashbot-classic/default_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-firefx.tga
+		glow
+	}	
+}
+players/slashbot-classic/ice
+{
+	{
+		map players/slashbot-classic/default_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-icefx.tga
+		glow
+	}	
+}
+players/slashbot-classic/midnight
+{
+	{
+		map players/slashbot-classic/default_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-midnightfx.tga
+		glow
+	}	
+}
+players/slashbot-classic/neon
+{
+	{
+		map players/slashbot-classic/default_normal.tga
+		normalmap
+		map2 gfx/slashbot-classic-neonfx.tga
+		glow
+	}	
+}

@@ -1,0 +1,219 @@
+players/martianenforcer-classic/red
+{
+	{
+		map players/martianenforcer-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-defaultfx.tga
+		glow
+	}
+}
+players/martianenforcer-classic/default
+{
+	{
+		map players/martianenforcer-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-defaultfx.tga
+		glow
+	}
+}
+players/martianenforcer-classic/blue
+{
+	{
+		map players/martianenforcer-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-bluefx.tga
+		glow
+	}	
+}
+players/martianenforcer-classic/gamara
+{
+	{
+		map players/martianenforcer-classic/gamara_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-gamarafx.tga
+		glow
+	}
+}
+players/martianenforcer-classic/tron
+{
+	{
+		map players/martianenforcer-classic/tron_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-tronfx.tga
+		glow
+	}	
+}
+players/martianenforcer-classic/tron2
+{
+	{
+		map players/martianenforcer-classic/tron_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-tron2fx.tga
+		glow
+	}	
+}
+players/martianenforcer-classic/tron3
+{
+	{
+		map players/martianenforcer-classic/tron_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-tron3fx.tga
+		glow
+	}	
+}
+players/martianenforcer-classic/flames
+{
+	{
+		map players/martianenforcer-classic/flames_normal.tga
+		normalmap
+        }	
+}
+players/martianenforcer-classic/flamesred
+{
+	{
+		map players/martianenforcer-classic/flamesred_normal.tga
+		normalmap
+	}	
+}
+players/martianenforcer-classic/flamesgreen
+{
+	{
+		map players/martianenforcer-classic/flamesgreen_normal.tga
+		normalmap
+	}	
+}
+
+players/martianenforcer-classic/nasty
+{
+	{
+		map players/martianenforcer-classic/nasty_normal.tga
+		normalmap
+        }	
+}
+players/martianenforcer-classic/nasty2
+{
+	{
+		map players/martianenforcer-classic/nasty2_normal.tga
+		normalmap
+	}	
+}
+players/martianenforcer-classic/meathead
+{
+	{
+		map players/martianenforcer-classic/meathead_normal.tga
+		normalmap
+	}	
+}
+players/martianenforcer-classic/mossed
+{
+	{
+		map players/martianenforcer-classic/mossed_normal.tga
+		normalmap
+	}	
+}
+players/martianenforcer-classic/pumpkinhead
+{
+	{
+		map players/martianenforcer-classic/pumpkinhead_normal.tga
+		normalmap
+	}	
+}
+players/martianenforcer-classic/aqua
+{
+	{
+		map players/martianenforcer-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-aquafx.tga
+		glow
+	}	
+}
+players/martianenforcer-classic/black
+{
+	{
+		map players/martianenforcer-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-blackfx.tga
+		glow
+	}
+}
+players/martianenforcer-classic/blacknblue
+{
+	{
+		map players/martianenforcer-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-blue2fx.tga
+		glow
+	}
+}
+players/martianenforcer-classic/blackngreen
+{
+	{
+		map players/martianenforcer-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-greenfx.tga
+		glow
+	}
+}
+players/martianenforcer-classic/blacknorange
+{
+	{
+		map players/martianenforcer-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-orangefx.tga
+		glow
+	}
+}
+players/martianenforcer-classic/blacknyellow
+{
+	{
+		map players/martianenforcer-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-yellowfx.tga
+		glow
+	}
+}
+players/martianenforcer-classic/cold
+{
+	{
+		map players/martianenforcer-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-coldfx.tga
+		glow
+	}	
+}
+players/martianenforcer-classic/fire
+{
+	{
+		map players/martianenforcer-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-firefx.tga
+		glow
+	}	
+}
+players/martianenforcer-classic/ice
+{
+	{
+		map players/martianenforcer-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-icefx.tga
+		glow
+	}	
+}
+players/martianenforcer-classic/midnight
+{
+	{
+		map players/martianenforcer-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-midnightfx.tga
+		glow
+	}	
+}
+players/martianenforcer-classic/neon
+{
+	{
+		map players/martianenforcer-classic/default_normal.tga
+		normalmap
+		map2 gfx/martianenforcer-classic-neonfx.tga
+		glow
+	}	
+}

@@ -1,0 +1,24 @@
+textures/arena1/jpad1a
+{
+        {
+                map textures/arena1/jpad1a.tga
+                anim .3
+                        textures/arena1/jpad1a.tga
+                        textures/arena1/jpad1b.tga
+                        textures/arena1/jpad1c.tga
+                        textures/arena1/jpad1d.tga
+                        textures/arena1/jpad1e.tga
+		end
+        }
+}
+textures/arena2/metal3
+{
+        {
+                map textures/arena2/metal3.tga
+                anim .5
+                        textures/arena2/metal3.tga
+                        textures/arena2/metal3glow.tga
+		end
+        }
+}
+

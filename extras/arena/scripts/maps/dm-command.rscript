@@ -1,0 +1,96 @@
+textures/blanks/blank2
+{
+	{
+		map gfx/beam1.tga
+		scale static 20 static 20
+		colormap 0.3 0.3 0.3
+		beam
+		xang -0.25
+	}
+}
+
+textures/blanks/blank3
+{
+	{
+		map gfx/beam1.tga
+		scale static 20 static 20
+		colormap 0.3 0.3 0.3
+		beam
+		xang 0.25
+	}
+}
+
+textures/blanks/blank4
+{
+	{
+		map gfx/beam1.tga
+		scale static 20 static 20
+		colormap 0.3 0.3 0.3
+		beam
+		yang -0.25
+	}
+}
+
+textures/arena7/light14
+{
+	{
+		lensflare
+	}
+}
+
+textures/arena9/panel1
+{
+	{
+		lensflare
+	}
+}
+
+textures/arena7/light10
+{
+	{
+		lensflare
+	}
+}
+
+textures/arena7/light7
+{
+	{
+		lensflare
+	}
+}
+
+textures/arena9/lightwhite
+{
+	{
+		map gfx/beam1.tga
+		scale static 12 static 12
+		colormap 0.3 0.3 0.3
+		beam
+		lensflare
+	}
+}
+
+textures/evil/e6launchengine
+{
+    {
+        map gfx/e6launchengine_glow.tga
+        blendFunc GL_ONE GL_ONE_MINUS_SRC_ALPHA
+        alphashift 2.5 0.0 1.0
+        nolightmap
+    }
+    {
+        map textures/evil/e6launchengine.tga
+        blendFunc GL_ONE GL_ONE_MINUS_SRC_ALPHA
+        alphashift 2.5 0.0 1.0
+    }
+}
+
+textures/arena7/light5
+{
+	{
+		map textures/arena9/metal4.tga
+		blendFunc GL_ONE GL_ONE_MINUS_SRC_ALPHA
+		alphashift 2.5 0.0 1.0
+	}
+}
+
