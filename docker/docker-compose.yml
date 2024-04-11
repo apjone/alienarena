@@ -1,0 +1,21 @@
+---
+version: '3'
+
+services:
+  alienarenaserver:
+    #restart: never
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: apjone/alienarena-ded
+    container_name: alienarena-ded
+    volumes:
+      - type: bind
+        source: ./config/motd.txt
+        target: /usr/local/share/alienarena/arena/motd.txt
+        source: ./config/server.cfg
+        target: /usr/local/share/alienarena/arena/server.cfg
+    ports:
+      - 27910:27910
+      - 27910:27910/udp
+    tty: true
